@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pwork\Desktop\dev\threads\thread_safe_vector\src\testThreadSafeVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pwork\Desktop\dev\threads\thread_safe_vector\src\catch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pwork\Desktop\dev\threads\thread_safe_vector\src\threadSafeVector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pwork\Desktop\dev\threads\thread_safe_vector\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pwork\Desktop\dev\threads\thread_safe_vector\src\threadSafeVector.tpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6AC019B1-47DB-303E-9AE2-1C05BCA52025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5AB637EB-8C49-39C5-9F37-ADC00FFC671D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
